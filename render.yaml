@@ -1,0 +1,10 @@
+
+services:
+  - type: web
+    name: icab-agent
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: cd backend && OPENROUTER_API_KEY=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 node server.js
+    healthCheckPath: /api/health
+    autoDeploy: true
