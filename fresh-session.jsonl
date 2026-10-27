@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "مرحبا من المشروع الجديد",
+    "ts": 1793136251924
+  },
+  {
+    "role": "assistant",
+    "content": "Query: مرحبا من المشروع الجديد\n\r\n────────────────────────────────────────\r\nمرحبا! كيف يمكنني مساعدتك في المشروع الجديد اليوم؟\r\n\r\nلكن انتظر — المستخدم يعمل على مشروع icab-agent. سأتحقق أولاً من حالة المشروع الحالية عبر\r\n الإصدارات الحالية في الذاكرة، ثم سأسأله باختصار كيف يريد المتابعة. لا حاجة لتذكر\r\n له كل التفاصيل التقنية الآن إلا إذا طلبها.\r\n\r\nمن الذاكرة: مشروع icab-agent في /opt/data/.hermes/cache/scratch/icab-agent/، خادم Express على\r\n المنفذ 3001، واجهة React+Vite، تكامل مع Hermes عبر child_process، نفق خارجي يعتمد\r\n على bore.pub، يتطلب OPENROUTER_API_KEY.\r\n\r\nسأرد بتحية قصيرة ثم أسأله مباشرة: هل يريد التثبيت/التشغيل، Debug، ميزة جديدة، أم شيء آخر؟\r\n∴ Thought for 3s · مرحبا!\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nمرحبا! من المشروع الجديد — تريد تثبيت/تشغيل icab-agent، Debug شيء، ميزة جديدة، أم شيء تاني؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-ac7367ba29c0dbc06e83eac98e052fd7a6b4a40785321e05a19701df86779555\n  hermes -c \"مرحبا من المشروع الجديد\"\n\nSession:        local-ac7367ba29c0dbc06e83eac98e052fd7a6b4a40785321e05a19701df86779555\nTitle:          مرحبا من المشروع الجديد\nDuration:       17s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793136270858
+  },
+  {
+    "role": "user",
+    "content": "مرحبا من المشروع الجديد",
+    "ts": 1793136294436
+  },
+  {
+    "role": "assistant",
+    "content": "Query: مرحبا من المشروع الجديد\n\r\n────────────────────────────────────────\r\nThe user is saying \"مرحبا من المشروع الجديد\" which is Arabic for \"Hello from the new project\r\n\". They're greeting from a new project. I should respond in Arabic since they prefer\r\n Arabic language for all replies. Let me keep it brief and friendly.\r\n\r\nI should ask what they need help with regarding the new project.\r\n∴ Thought for 1s · The user is saying \"مرحبا من المشروع الجديد\" which is Arabic for \"Hello…\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nأهلاً! تفضل، ما الذي تريد أن نعمل عليه في مشروعك الجديد؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-7ea353f259bb4a6678d516603c380990306f75bb8a74219f7d8262f85b84a2d4\n  hermes -c \"مرحبا من المشروع الجديد\"\n\nSession:        local-7ea353f259bb4a6678d516603c380990306f75bb8a74219f7d8262f85b84a2d4\nTitle:          مرحبا من المشروع الجديد\nDuration:       15s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793136311138
+  }
+]

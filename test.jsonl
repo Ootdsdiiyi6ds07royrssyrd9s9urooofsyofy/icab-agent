@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "مرحبا",
+    "ts": 1793137593183
+  },
+  {
+    "role": "assistant",
+    "content": "Query: مرحبا\n\r\n────────────────────────────────────────\r\nأهلاً بك! 👋\r\n\r\nكيف يمكنني مساعدتك اليوم؟مرحبا! أنا إرما، مساعدك الذكي. كيف يمكنني مساعدتك اليوم؟\r\n∴ Thought for 5s · أهلاً بك!\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nمرحبا! كيف أقدر أساعدك اليوم؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-2cf19cbd64c2abeee8e6a1c4dc007bca562defdca1a7f7281bf668dbb2ac7992\n\nSession:        local-2cf19cbd64c2abeee8e6a1c4dc007bca562defdca1a7f7281bf668dbb2ac7992\nDuration:       19s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793137613860
+  }
+]

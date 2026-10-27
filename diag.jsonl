@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "مرحبا",
+    "ts": 1793136584098
+  },
+  {
+    "role": "assistant",
+    "content": "Query: مرحبا\n\r\n────────────────────────────────────────\r\nThe user said \"مرحبا\" which means \"Hello\" in Arabic. I should respond in Arabic as\r\n they prefer. Let me say a brief greeting.\r\n∴ Thought for 0s · The user said \"مرحبا\" which means \"Hello\" in Arabic.\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nمرحبا! كيف يمكنني مساعدتك اليوم؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-ce4d7d0521485497d1d9798037b81f4ae834e3a0bdf4ccda146497af69597e5f\n\nSession:        local-ce4d7d0521485497d1d9798037b81f4ae834e3a0bdf4ccda146497af69597e5f\nDuration:       21s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793136607458
+  }
+]

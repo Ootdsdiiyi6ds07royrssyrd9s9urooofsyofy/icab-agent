@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "اختبار",
+    "ts": 1793136777802
+  },
+  {
+    "role": "assistant",
+    "content": "Query: اختبار\n\r\n────────────────────────────────────────\r\nThe user said \"اختبار\" which is Arabic for \"test\" or \"testing\". They're likely testing if\r\n I respond in Arabic as per their preference. I should respond concisely in Arabic\r\n confirming everything is working.\r\n∴ Thought for 1s · The user said \"اختبار\" which is Arabic for \"test\" or \"testing\".\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nأهلًا بك! ✓أنا يعمل الآن وأفهم تفضيلاتك:\r\n- الردود بالعربية دائماً\r\n- مشروع icab-agent على /opt/data/.hermes/cache/scratch/icab-agent/\r\n- الخادم Express على المنفذ 3001 مع واجهة React+Vite\r\n- تكامل Hermes عبر hermes chat -q message --oneshot\r\n- النفق الخارجي عبر serveo.netكيف يمكنني مساعدتك اليوم؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-f9bc2003fd642860369f843816594ca0c7226de9a63fe82acefce4672e243314\n  hermes -c \"اختبار\"\n\nSession:        local-f9bc2003fd642860369f843816594ca0c7226de9a63fe82acefce4672e243314\nTitle:          اختبار\nDuration:       18s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793136797722
+  }
+]

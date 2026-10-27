@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "مرحبا",
+    "ts": 1793137325860
+  },
+  {
+    "role": "assistant",
+    "content": "Query: مرحبا\n\r\n────────────────────────────────────────\r\nمرحبا بك! 👋\r\nأنا Hermes Agent، كيف يمكنني مساعدتك اليوم؟مرحبا! 😊\r\n\r\nأحتاج إلى معرفة ما تريد عمله اليوم — هل لديك طلب أو مشروع معين تريد تنفيذه؟\r\n∴ Thought for 5s · مرحبا بك!\r\n────────────────────────────────────────\r\n\r\n────────────────────────────────────────\r\n☤ Hermes\r\nمرحباً بك! 😊\r\n\r\nكيف يمكنني مساعدتك اليوم؟\r\n────────────────────────────────────────\r\n\nResume this session with:\n  hermes --resume local-6486da6e1412cfd53edf31cacf5370cf9012a53e22bc4bf6269c3f6dbbe21d1a\n  hermes -c \"إرسال تحية ودية\"\n\nSession:        local-6486da6e1412cfd53edf31cacf5370cf9012a53e22bc4bf6269c3f6dbbe21d1a\nTitle:          إرسال تحية ودية\nDuration:       9s\nMessages:       2 (1 user, 0 tool calls)\n",
+    "ts": 1793137336303
+  }
+]

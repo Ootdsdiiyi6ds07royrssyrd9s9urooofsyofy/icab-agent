@@ -1,0 +1,9 @@
+{
+  "autoReply": true,
+  "autoCallReply": true,
+  "voiceReminders": true,
+  "smartNotifications": true,
+  "learningMode": false,
+  "language": "ar",
+  "directModel": "qwen/qwen3-235b-a22b:free"
+}
